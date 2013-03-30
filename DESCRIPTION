@@ -1,13 +1,15 @@
 Package: ump
-Version: 0.5-2
-Date: 09 October 2007
+Version: 0.5-3
+Date: 2013-03-30
 Title: Uniformly Most Powerful Tests
 Author: Charles J. Geyer <charlie@stat.umn.edu> and Glen D. Meeden
         <glen@stat.umn.edu>
 Maintainer: Charles J. Geyer <charlie@stat.umn.edu>
-Depends: R (>= 1.8.0)
+Depends: R (>= 2.6.0)
 Description: see title
-License: X11
-Packaged: Tue Oct 9 16:48:46 2007; charlie
+License: MIT + file LICENSE
+URL: http://www.stat.umn.edu/geyer/fuzz/
+Packaged: 2013-03-31 03:56:06 UTC; charlie
+NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2007-10-10 07:52:37
+Date/Publication: 2013-03-31 07:54:51
