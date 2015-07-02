@@ -1,12 +1,12 @@
-1b10fe58625be51eccd232be94617e51 *CHANGES
-5d58d54ae276eb6b731ef50da79dac71 *DESCRIPTION
+741e52e5d672a6af075fce7abc9c19ae *CHANGES
+5ccdab4de8892234d39f682e11e3f703 *DESCRIPTION
 5b3746d96ea39f72306c2d6f6cd7a51b *LICENSE
-3aaa050f791a67d767d14b496bf2b2ac *NAMESPACE
+b87c69e87064c220d059d454452b0526 *NAMESPACE
 b7b8a5838cb8714d1e4cc097996b9eee *R/arpv.binom.R
 27b7834f0cdb9de8ec6c4fccfafcfc37 *R/arpv.plot.R
 4418f2760b856c2377758877060bc137 *R/fci.binom.R
 ec4dded3bddf132b998759806d3405da *R/umpu.binom.R
-82370f62c08ab9dabc3747cb6da518d7 *build/vignette.rds
+32476dd2380d90598eae994156519c59 *build/vignette.rds
 ac43dafbda923660775373d8b2f8aed4 *inst/doc/design.Rnw
 da3380797afa6581e4937b772feefaf5 *inst/doc/design.pdf
 0502259b0fb14aa016089961ff4d0739 *man/arpv.binom.Rd
